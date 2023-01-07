@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="&#xc218;&#xb3d9;"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jPanel1" alignment="1" max="32767" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="cbx11" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx12" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx13" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx14" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx15" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx16" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx17" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx18" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx19" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx20" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace pref="20" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                      <Component id="lblTitle" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="lblChange" min="-2" pref="151" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Component id="btnMy" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="btnLogout" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="btnBack" min="-2" pref="47" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="cbx21" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx22" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx23" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx24" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx25" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx26" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx27" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx28" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx29" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx30" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="cbx31" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx32" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx33" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx34" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx35" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx36" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx37" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx38" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx39" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="cbx40" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                              <Component id="btnClick" min="-2" pref="297" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx41" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx42" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx43" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx44" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cbx45" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx6" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx7" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx8" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx9" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbx10" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btnMy" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnLogout" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnBack" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblChange" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="lblTitle" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cbx1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx10" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cbx11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx12" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx13" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx14" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx15" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx16" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx17" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx18" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx19" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx20" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cbx21" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx22" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx23" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx24" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx25" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx26" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx27" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx28" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx29" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx30" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cbx31" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx32" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx33" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx34" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx35" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx36" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx37" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx38" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx39" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx40" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cbx41" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx42" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx43" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx44" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cbx45" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="btnClick" min="-2" pref="31" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblTitle">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="*&#xc218;&#xb3d9; &#xb85c;&#xb610;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnBack">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" \ud83d\udd19" containsInvalidXMLChars="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnBackActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace pref="56" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="lblMyNum" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="lblRealMyNum" min="-2" pref="233" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="lblNum" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="lblRealNum" min="-2" pref="233" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="lblCheck" min="-2" pref="317" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="lblSubTitle" min="-2" pref="195" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="109" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="lblSubTitle" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblNum" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblRealNum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblMyNum" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblRealMyNum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                  <Component id="lblCheck" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="20" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblNum">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xb2f9;&#xcca8; &#xbc88;&#xd638; : "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblRealMyNum">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="14" style="3"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xc218;&#xb3d9;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblMyNum">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xb0b4; &#xbc88;&#xd638; : "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblRealNum">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="18" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xb2f9;&#xcca8;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblCheck">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&#xba87;&#xac1c; &#xbc88;&#xd638; &#xc77c;&#xce58;?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSubTitle">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="99" green="0" red="99" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;&lt; &#xba87;&#xbc88; &#xd68c;&#xcc28; &#xc989;&#xc11d; &#xbcf5;&#xad8c; &gt;&gt;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="btnMy">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xb9c8;&#xc774;&#xd398;&#xc774;&#xc9c0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMyActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnLogout">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="logout"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnLogoutActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx20">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="20"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="16"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="17"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx18">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="18"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx19">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="19"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="11"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="12"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="13"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="14"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="15"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx30">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="30"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx26">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="26"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx27">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="27"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx28">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="28"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx29">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="29"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx21">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="21"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx22">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="22"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx23">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="23"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx24">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="24"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx25">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="25"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx40">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="40"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx36">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="36"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx37">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="37"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx38">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="38"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx39">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="39"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx31">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="31"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx32">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="32"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx33">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="33"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx34">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="34"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx35">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="35"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx41">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="41"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx42">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="42"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx43">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="43"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx44">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="44"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx45">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="45"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnClick">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="cc" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#xb9d1;&#xc740; &#xace0;&#xb515;" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xc218;&#xb3d9; &#xbcf5;&#xad8c; &#xcc38;&#xc5ec;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnClickActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xc794;&#xc561; : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblChange">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="10"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="06"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="07"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="08"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="09"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="01"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="02"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="03"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="04"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cbx5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="05"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
